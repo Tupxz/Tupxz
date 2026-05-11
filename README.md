@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Santiago Tupaz 👋
 
-<!--
-**Tupxz/Tupxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics student at EAFIT focused on:
+- Data Science
+- Health Economics
+- Research
+- Public Policy
 
-Here are some ideas to get you started:
+## 🚀 Current Work
+- EPS and healthcare analytics
+- Macroeconomic datasets
+- Debate tournament organization
+- Python & econometrics projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Highlights
+- Member of DAMA Antioquia
+- FENADECO Antioquia
+- Research seedbeds
+- Teaching Python workshops
+
+## 🛠 Tech Stack
+Python | Stata | Git | SQL | R
