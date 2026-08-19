@@ -19,4 +19,4 @@ Economics student at EAFIT focused on:
 - Teaching Python workshops
 
 ## 🛠 Tech Stack
-Python | Stata | Git | SQL | R
+Python | Stata | Git | PowerBI | R
